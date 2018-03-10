@@ -2,7 +2,7 @@
 
 Articles
 
-Pifalls to avoid in persistance
+Pitfalls to avoid in persistance
 https://docs.microsoft.com/en-us/azure/architecture/antipatterns/monolithic-persistence/
 
 
