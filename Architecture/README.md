@@ -6,6 +6,9 @@ https://www.microsoft.com/net/learn/architecture
 Microsoft Azure Architecture Patterns & Practices
 https://docs.microsoft.com/en-us/azure/architecture/
 
+Microsoft .NET Microservices Architecture Reference
+https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/index
+
 Multi-Region Web Application Architecture
 https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/multi-region
 
